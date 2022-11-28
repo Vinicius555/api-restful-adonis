@@ -37,3 +37,5 @@ Conclusão
 Dessa forma, se você está desenvolvendo um projeto em Node.js é muito interessante que utilize o AdonisJS devido ao seu caráter opinativo, agilizando o seu trabalho. 
 
 Depois de aplicar o que é AdonisJS, você perceberá que ele vai permitir uma estrutura escalável para dar mais qualidade às suas aplicações web.
+
+Font: https://coodesh.com/blog/dicionario/adonisjs/#:~:text=AdonisJS%20é%20uma%20estrutura%20MVC,não%20precisa%20utilizar%20outros%20recursos.
